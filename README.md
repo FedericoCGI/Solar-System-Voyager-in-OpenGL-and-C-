@@ -1,1 +1,1 @@
-# Solar-System-Voyager-in-OpenGL-and-C-
+# Solar Systemm Voyager in OpenGL and C++
