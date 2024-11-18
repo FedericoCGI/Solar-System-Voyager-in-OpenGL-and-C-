@@ -30,5 +30,33 @@ The custom classes developed for this project are listed as follows:
 
 The demo.cpp file contains the main() method, which brings together all the components to run the program. The scene includes models of celestial bodies that make up the solar system, such as planets, the sun, and asteroid belts. Each planet's rotation and revolution are dynamically managed to provide a realistic experience.
 
-![SSV Window]()
+![SSV Window](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/images/ssv_window.png)
+
+## Libraries
+
+Libraries used in this project are listes as follows:
+- OpenGL: Core graphics API for rendering.
+- GLFW & GLAD: Window management and OpenGL function loading.
+- Assimp: For importing 3D models.
+- IrrKlang: For audio playback.
+- stb_image: For texture loading.
+
+## 3D Models and Textures
+
+![Saturn](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/images/saturn.png)
+
+## Getting Started
+
+Please, ensure that all dependencies are installed. This project is developed in C++ with OpenGL, so make sure your development environment is properly set up.
+
+## Content
+- The thesis produced for this work is avaible in [thesis.pdf](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/thesis). Currently, this file is written in Italian, but an English version will be uploaded as soon as possible.
+- Regarding the implementation, MATLAB and Python scripts, along with the related JSON file, are available in the [code](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/code) folder.
+- Some examples of the original footage and its final version are avaible in the [renders](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/renders) folder.
+
+## Autor
+[Federico March](https://github.com/FedericoCGI)
+- [ArtStation](https://www.artstation.com/federicomarch_cgi)
+- [LinkedIn](https://www.linkedin.com/in/federico-march-a15b17194/)
+- federico.march.cgi@gmail.com
 
