@@ -47,7 +47,7 @@ Libraries used in this project are listes as follows:
 
 ## Getting Started
 
-Please, ensure that all dependencies are installed. This project is developed in C++ with OpenGL, so make sure your development environment is properly set up.
+This project is developed in C++ with OpenGL, so make sure your development environment is properly set up. Please, ensure that all dependencies are installed and save code and 3D models in the 'Solar System Voyager' folder as shown.
 
 ## Content
 - The thesis produced for this work is avaible in [thesis.pdf](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/thesis). Currently, this file is written in Italian, but an English version will be uploaded as soon as possible.
