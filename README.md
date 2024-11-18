@@ -26,3 +26,9 @@ The custom classes developed for this project are listed as follows:
 - Texture: Manages texture creation and application to 3D models.
 - Window: Creates and manages the window where the program runs, including user input handling.
 
+## How It Works
+
+The demo.cpp file contains the main() method, which brings together all the components to run the program. The scene includes models of celestial bodies that make up the solar system, such as planets, the sun, and asteroid belts. Each planet's rotation and revolution are dynamically managed to provide a realistic experience.
+
+![SSV Window]()
+
