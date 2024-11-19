@@ -44,6 +44,7 @@ Libraries used in this project are listes as follows:
 ## 3D Models and Textures
 
 All the 3D models used in this project to reproduce the Solar System's celestial bodies were modeled in Maya and saved in OBJ format. The OBJ format was chosen for compatibility reasons within the project. These assets are avaible in [asset](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/asset) folder. 
+
 ![Saturn](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/images/saturn.png)
 
 ## Getting Started
