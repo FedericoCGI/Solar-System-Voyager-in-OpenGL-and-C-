@@ -15,7 +15,7 @@
 
 The custom classes developed for this project are listed as follows:
 
-- [Audio](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Audio): Uses the IrrKlang library to play audio during program execution
+- [Audio](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Audio): Uses the [IrrKlang](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Audio/Audio-lib) library to play audio during program execution
 - [Camera](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Camera): Manages the camera's creation, settings, and movements, allowing for a 360-degree exploration of the scene.
 - [Mesh](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Mesh): Handles the 3D mesh data for imported models, including vertices, normals, and textures.
 - [Model](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Model): Imports 3D models into the project using the [Assimp](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Assimp) library, storing data in objects of the Mesh class.
