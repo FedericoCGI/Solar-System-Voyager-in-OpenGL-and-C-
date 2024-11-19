@@ -47,7 +47,7 @@ Libraries used in this project are listes as follows:
 
 ## Getting Started
 
-This project is developed in C++ with OpenGL, so make sure your development environment is properly set up. Please ensure that all dependencies are installed, and save the code and related 3D models in the 'Solar System Voyager' folder as shown. 
+This project is developed in C++ with OpenGL, so make sure your development environment is properly set up. Please ensure that all dependencies are installed, and save the code and related 3D models in the 'Solar System Voyager' folder as shown. If you need help, take a look at [Getting Started.txt](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/sources/Getting%20Started.txt) file in [sources](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/sources) folder. 
 
 ![folder](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/images/folder.png)
 
