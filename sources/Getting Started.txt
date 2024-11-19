@@ -1,3 +1,6 @@
+
+***   GETTING STARTED   ***
+
 1. Project x64
 2. Linking libraries (in Debug and/or Release, depending on the type of compilation you want to do)
 --> You can follow the instructions on this site:
