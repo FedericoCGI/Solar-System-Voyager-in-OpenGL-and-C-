@@ -57,10 +57,10 @@ int main()
 	//SCENE SHADER
 
 	//Build and compile a Scene Vertex Shader Program
-	Shader* sceneVertexShader = new Shader("C:/Users/F£D XX)/Desktop/Solar System Voyager/Shader file/vertexShaderSourceCode.glsl", GL_VERTEX_SHADER);
+	Shader* sceneVertexShader = new Shader("C:/Users/path/Solar System Voyager/Shader file/vertexShaderSourceCode.glsl", GL_VERTEX_SHADER);
 
 	//Build and compile a Scene Fragment Shader program
-	Shader* sceneFragmentShader = new Shader("C:/Users/F£D XX)/Desktop/Solar System Voyager/Shader file/fragmentShaderSourceCode.glsl", GL_FRAGMENT_SHADER);
+	Shader* sceneFragmentShader = new Shader("C:/Users/path/Solar System Voyager/Shader file/fragmentShaderSourceCode.glsl", GL_FRAGMENT_SHADER);
 
 	//Create a Scene Shader Linking program
 	ShaderLinker* sceneShaderProgram = new ShaderLinker(sceneVertexShader->getShader(), sceneFragmentShader->getShader());
@@ -73,10 +73,10 @@ int main()
 	//SKYBOX SHADER
 
 	//Build and Compile a Skybox Vertex Shader program
-	Shader* skyboxVertex = new Shader("C:/Users/F£D XX)/Desktop/Solar System Voyager/Skybox file/Skybox Shader/skyboxVertexSourceCode.glsl", GL_VERTEX_SHADER);
+	Shader* skyboxVertex = new Shader("C:/Users/path/Solar System Voyager/Skybox file/Skybox Shader/skyboxVertexSourceCode.glsl", GL_VERTEX_SHADER);
 
 	//Build and Compile a Skybox Fragment Shader program
-	Shader* skyboxFragment = new Shader("C:/Users/F£D XX)/Desktop/Solar System Voyager/Skybox file/Skybox Shader/skyboxFragmentSourceCode.glsl", GL_FRAGMENT_SHADER);
+	Shader* skyboxFragment = new Shader("C:/Users/path/Solar System Voyager/Skybox file/Skybox Shader/skyboxFragmentSourceCode.glsl", GL_FRAGMENT_SHADER);
 
 	//Create a Skybox Shader Linking program
 	ShaderLinker* skyboxProgram = new ShaderLinker(skyboxVertex->getShader(), skyboxFragment->getShader());
@@ -89,18 +89,18 @@ int main()
 
 	//LOAD 3D MODEL 
 	//Model* solarSystemModel = new Model("Model-file/Solar-System/Solar-System.obj");
-	Model* s_un = new Model("C:/Users/F£D XX)/Desktop/Solar System Voyager/Model-file/Solar-System/Sun.obj");
-	Model* m_ercury = new Model("C:/Users/F£D XX)/Desktop/Solar System Voyager/Model-file/Solar-System/Mercury.obj");
-	Model* v_enus = new Model("C:/Users/F£D XX)/Desktop/Solar System Voyager/Model-file/Solar-System/Venus.obj");
-	Model* earth_moon = new Model("C:/Users/F£D XX)/Desktop/Solar System Voyager/Model-file/Solar-System/Earth-Moon.obj");
-	Model* m_ars = new Model("C:/Users/F£D XX)/Desktop/Solar System Voyager/Model-file/Solar-System/Mars.obj");
-	Model* a_steroid = new Model("C:/Users/F£D XX)/Desktop/Solar System Voyager/Model-file/Solar-System/Asteroids.obj");
-	Model* a_steroid2 = new Model("C:/Users/F£D XX)/Desktop/Solar System Voyager/Model-file/Solar-System/Asteroids2.obj");
-	Model* a_steroid3 = new Model("C:/Users/F£D XX)/Desktop/Solar System Voyager/Model-file/Solar-System/Asteroids3.obj");
-	Model* j_upiter = new Model("C:/Users/F£D XX)/Desktop/Solar System Voyager/Model-file/Solar-System/Jupiter.obj");
-	Model* s_aturn = new Model("C:/Users/F£D XX)/Desktop/Solar System Voyager/Model-file/Solar-System/Saturn.obj");
-	Model* u_ranus = new Model("C:/Users/F£D XX)/Desktop/Solar System Voyager/Model-file/Solar-System/Uranus.obj");
-	Model* n_eptune = new Model("C:/Users/F£D XX)/Desktop/Solar System Voyager/Model-file/Solar-System/Neptune.obj");
+	Model* s_un = new Model("C:/Users/path/Solar System Voyager/Model-file/Solar-System/Sun.obj");
+	Model* m_ercury = new Model("C:/Users/path/Solar System Voyager/Model-file/Solar-System/Mercury.obj");
+	Model* v_enus = new Model("C:/Users/path/Solar System Voyager/Model-file/Solar-System/Venus.obj");
+	Model* earth_moon = new Model("C:/Users/path/Solar System Voyager/Model-file/Solar-System/Earth-Moon.obj");
+	Model* m_ars = new Model("C:/Users/path/Solar System Voyager/Model-file/Solar-System/Mars.obj");
+	Model* a_steroid = new Model("C:/Users/path/Solar System Voyager/Model-file/Solar-System/Asteroids.obj");
+	Model* a_steroid2 = new Model("C:/Users/path/Solar System Voyager/Model-file/Solar-System/Asteroids2.obj");
+	Model* a_steroid3 = new Model("C:/Users/path/Solar System Voyager/Model-file/Solar-System/Asteroids3.obj");
+	Model* j_upiter = new Model("C:/Users/path/Solar System Voyager/Model-file/Solar-System/Jupiter.obj");
+	Model* s_aturn = new Model("C:/Users/path/Solar System Voyager/Model-file/Solar-System/Saturn.obj");
+	Model* u_ranus = new Model("C:/Users/path/Solar System Voyager/Model-file/Solar-System/Uranus.obj");
+	Model* n_eptune = new Model("C:/Users/path/Solar System Voyager/Model-file/Solar-System/Neptune.obj");
 	
 	
 	
@@ -141,12 +141,12 @@ int main()
 
 	vector<string> faces
 	{
-		"C:/Users/F£D XX)/Desktop/Solar System Voyager/Skybox file/Milky Way/right.jpg",
-		"C:/Users/F£D XX)/Desktop/Solar System Voyager/Skybox file/Milky Way/left.jpg",
-		"C:/Users/F£D XX)/Desktop/Solar System Voyager/Skybox file/Milky Way/top.jpg",
-		"C:/Users/F£D XX)/Desktop/Solar System Voyager/Skybox file/Milky Way/bottom.jpg",
-		"C:/Users/F£D XX)/Desktop/Solar System Voyager/Skybox file/Milky Way/front.jpg",
-		"C:/Users/F£D XX)/Desktop/Solar System Voyager/Skybox file/Milky Way/back.jpg"
+		"C:/Users/path/Solar System Voyager/Skybox file/Milky Way/right.jpg",
+		"C:/Users/path/Solar System Voyager/Skybox file/Milky Way/left.jpg",
+		"C:/Users/path/Solar System Voyager/Skybox file/Milky Way/top.jpg",
+		"C:/Users/path/Solar System Voyager/Skybox file/Milky Way/bottom.jpg",
+		"C:/Users/path/Solar System Voyager/Skybox file/Milky Way/front.jpg",
+		"C:/Users/path/Solar System Voyager/Skybox file/Milky Way/back.jpg"
 	};//contains skybox texture faces
 
 
