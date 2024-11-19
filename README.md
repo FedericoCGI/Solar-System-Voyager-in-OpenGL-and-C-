@@ -53,6 +53,7 @@ This project is developed in C++ with OpenGL, so make sure your development envi
 
 ## Content
 - Project documentation is avaible in [documentation.pdf](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/sources/documentation.pdf), in [sources](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/sources) folder. Currently, this file is written in Italian, but an English version will be uploaded as soon as possible.
+- Procedures for getting started with an OpenGL project are available in [Getting Started.txt](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/sources/Getting%20Started.txt) file, in [sources](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/sources) 
 - Project implementation is available in the [codes](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes) folder.
 - 3D models and related textures are avaible in the [asset](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/asset) folder.
 
