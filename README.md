@@ -1,6 +1,6 @@
 # Solar Systemm Voyager in OpenGL and C++
 
-'Solar System Voyager' is a computer graphics project that simulates a spacecraft exploring the Solar System. This project developed in C++ with OpenGL, incorporating a variety of custom classes and libraries to manage different aspects of the 3D environment. 
+'Solar System Voyager' is a computer graphics project that simulates a spacecraft exploring the Solar System. This project developed in C++ with OpenGL, incorporating a variety of custom classes and libraries to manage different aspects of the 3D environment. This work was created as part of the 'Programming in C++ and Rendering Engines' course at the University of Roma Tor Vergata.
 
 ![Solar System Voyager Intro](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/images/solarsystemintro.png)         ![Solar System Voyager Preview](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/images/solarsystempreview.png)
 
