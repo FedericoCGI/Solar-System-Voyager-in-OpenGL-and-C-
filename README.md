@@ -15,20 +15,20 @@
 
 The custom classes developed for this project are listed as follows:
 
-- Audio: Uses the IrrKlang library to play audio during program execution
-- Camera: Manages the camera's creation, settings, and movements, allowing for a 360-degree exploration of the scene.
-- Mesh: Handles the 3D mesh data for imported models, including vertices, normals, and textures.
-- Model: Imports 3D models into the project using the Assimp library, storing data in objects of the Mesh class.
-- My Algebra: Manages mathematical operations on vectors and matrices, providing the tools needed for 3D transformations.
-- Planet: Manages the rotation and revolution of each planet, simulating their real-world movements.
-- Shader & ShaderLinker: Handles vertex and fragment shaders and links them to form shader programs for rendering the scene.
-- Skybox: Creates a cubemap used as the background, giving the effect of an expansive universe.
-- Texture: Manages texture creation and application to 3D models.
-- Window: Creates and manages the window where the program runs, including user input handling.
+- [Audio](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Audio): Uses the IrrKlang library to play audio during program execution
+- [Camera](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Camera): Manages the camera's creation, settings, and movements, allowing for a 360-degree exploration of the scene.
+- [Mesh](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Mesh): Handles the 3D mesh data for imported models, including vertices, normals, and textures.
+- [Model](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Model): Imports 3D models into the project using the [Assimp](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Assimp) library, storing data in objects of the Mesh class.
+- [My Algebra](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/My%20Algebra): Manages mathematical operations on vectors and matrices, providing the tools needed for 3D transformations.
+- [Planet](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes): Manages the rotation and revolution of each planet, simulating their real-world movements.
+- [Shader & ShaderLinker](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Shader): Handles vertex and fragment shaders and links them to form shader programs for rendering the scene.
+- [Skybox](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Skybox): Creates a cubemap used as the background, giving the effect of an expansive universe.
+- [Texture](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Texture): Manages texture creation and application to 3D models.
+- [Window](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/OPENGL%20Window): Creates and manages the window where the program runs, including user input handling.
 
 ## How It Works
 
-The demo.cpp file contains the main() method, which brings together all the components to run the program. The scene includes models of celestial bodies that make up the solar system, such as planets, the sun, and asteroid belts. Each planet's rotation and revolution are dynamically managed to provide a realistic experience.
+The [demo.cpp](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/codes/demo.cpp) file contains the main() method, which brings together all the components to run the program. The scene includes models of celestial bodies that make up the solar system, such as planets, the sun, and asteroid belts. Each planet's rotation and revolution are dynamically managed to provide a realistic experience.
 
 ![SSV Window](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/images/ssv_window.png)
 
