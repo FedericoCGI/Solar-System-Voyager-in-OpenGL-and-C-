@@ -52,9 +52,9 @@ This project is developed in C++ with OpenGL, so make sure your development envi
 ![folder](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/images/folder.png)
 
 ## Content
-- The thesis produced for this work is avaible in [thesis.pdf](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/thesis). Currently, this file is written in Italian, but an English version will be uploaded as soon as possible.
-- Regarding the implementation, MATLAB and Python scripts, along with the related JSON file, are available in the [code](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/code) folder.
-- Some examples of the original footage and its final version are avaible in the [renders](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/renders) folder.
+- Project documentation is avaible in [documentation.pdf](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/blob/main/sources/documentation.pdf), in [sources](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/sources) folder. Currently, this file is written in Italian, but an English version will be uploaded as soon as possible.
+- Project implementation is available in the [codes](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes) folder.
+- 3D models and related textures are avaible in the [https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/asset](https://github.com/FedericoCGI/Integration-in-the-Google-Earth-Studio-Environment-for-Non-Tracking-Based-Matchmoving/tree/main/renders) folder.
 
 ## Autor
 [Federico March](https://github.com/FedericoCGI)
