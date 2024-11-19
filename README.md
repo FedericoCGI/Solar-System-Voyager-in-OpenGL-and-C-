@@ -15,7 +15,7 @@
 
 The custom classes developed for this project are listed as follows:
 
-- [Audio](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Audio): Uses the [IrrKlang](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Audio/Audio-lib) library to play audio during program execution.
+- [Audio](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Audio): Uses the [IrrKlang](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Audio) library to play audio during program execution.
 - [Camera](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Camera): Manages the camera's creation, settings, and movements, allowing for a 360-degree exploration of the scene.
 - [Mesh](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Mesh): Handles the 3D mesh data for imported models, including vertices, normals, and textures.
 - [Model](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Model): Imports 3D models into the project using the [Assimp](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Assimp) library, storing data in objects of the Mesh class.
@@ -36,10 +36,10 @@ The [demo.cpp](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and
 
 Libraries used in this project are listes as follows:
 - OpenGL: Core graphics API for rendering.
-- GLFW & GLAD: Window management and OpenGL function loading.
-- Assimp: For importing 3D models.
-- IrrKlang: For audio playback.
-- stb_image: For texture loading.
+- [GLFW](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/GLFW%20%20for%20OPENGL%20lib) & GLAD: Window management and OpenGL function loading.
+- [Assimp](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Assimp/lib): For importing 3D models.
+- [IrrKlang](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Audio): For audio playback.
+- [stb_image](https://github.com/FedericoCGI/Solar-System-Voyager-in-OpenGL-and-Cpp/tree/main/codes/Classi%20Utili/Texture): For texture loading.
 
 ## 3D Models and Textures
 
